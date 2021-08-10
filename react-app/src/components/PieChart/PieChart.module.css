@@ -1,0 +1,11 @@
+.PieChart {
+    width: 45%;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.pieWrapper {
+    border: 1px solid black;
+    min-height: 360px;
+    height: 360px;
+}

@@ -1,0 +1,10 @@
+.Dashboard {
+    /* margin:20px 100px 20px 100px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr; */
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 20px;
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+.gridContainer {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+}
+
+.gridContainer2 {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+}
+
+.bondHoldingsContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.rowContainer {
+    display: flex;
+    margin-top: 30px;
+    flex-direction: row;
+}
